@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">
+  Welcome Ladies and Gentlemen 👋
+</h1>
 
-<!--
-**Diadkov/Diadkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently working on
 
-Here are some ideas to get you started:
+- **Parallel subsystem prototype in VHDL (FPGA)**  
+  Designing, testing and experimenting with pipelined / parallel hardware logic.
+- **Practical C programming course**
+  From fundamentals → memory → real projects and system-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently learning
+
+- VHDL / FPGA / digital design  
+- Modern C / C23 / CMake  
+- Algorithms & problem solving (LeetCode)
+
+---
+
+### 📊 Tech stack
+
+**Languages / Tools I use:**
+
+`C` · `C23` · `C++` · `VHDL`, `python`  
+STM32 / ESP32 · FreeRTOS  
+CMake / Make · GCC / clang  
+Python (automation scripts)
+
+---
+
+### 📈 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Diadkov&show_icons=true&theme=radical" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diadkov&theme=radical" height="165">
+
+</div>
