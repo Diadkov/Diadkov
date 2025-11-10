@@ -55,7 +55,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Diadkov&theme=tokyonight" height="165">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diadkov&theme=tokyonight" height="180">
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VikDaddy)](https://leetcode.com/u/VikDaddy/)
+[![VikDaddy's LeetCode stats](https://leetcard.jacoblin.cool/VikDaddy?theme=dark&ext=heatmap)](https://leetcode.com/u/VikDaddy/)
+
 
 </div>
 
