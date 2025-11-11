@@ -17,6 +17,7 @@
 - VHDL / FPGA / digital design  
 - Modern C / C23 / CMake  
 - Algorithms & problem solving (LeetCode)
+- NetWorking programming
 
 ---
 
